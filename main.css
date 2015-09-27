@@ -82,3 +82,15 @@ html {
   }
 }
 
+.icons {
+  font-size: 30px;
+} 
+
+.icons a {
+  color: #E6E6E6;
+  padding: 0 8px 4px;
+}
+
+.icons a:hover {
+  color: #ff4141;
+}
